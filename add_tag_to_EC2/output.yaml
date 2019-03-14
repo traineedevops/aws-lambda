@@ -7,7 +7,7 @@ Resources:
     Properties:
       Handler: lambda_function.lambda_handler
       Runtime: python3.6
-      CodeUri: s3://ec2-owner-tag-zayats/98b9a785defcbc409a74f043e977a8b3
+      CodeUri: s3://ec2-owner-tag-mycli/0a713adab9464b1860ab70c334539338
       Policies:
       - Version: '2012-10-17'
         Statement:
