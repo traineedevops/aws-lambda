@@ -9,6 +9,5 @@
 *.tfvars
 
 # output cloudformation file
-output.yaml
 ./add_tag_to_EC2/output.yaml
 
